@@ -19,7 +19,7 @@ $recently_added_products = $stmt->fetchAll(PDO::FETCH_ASSOC);
             
             <span class="name"><?=$product['name']?></span>
             <span class="price">
-                &dollar;<?=$product['price']?>
+                <?=$product['price']?>
             </span>
         </a>
         <?php endforeach; ?>

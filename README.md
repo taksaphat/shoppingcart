@@ -1,3 +1,3 @@
 # shoppingcartdemo
-
-for internship project
+# shoppingcartdemo
+# shoppingcartdemo

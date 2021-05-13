@@ -26,7 +26,7 @@ echo <<<EOT
 	<body>
         <header>
             <div class="content-wrapper">
-                <h1>Shopping Cart System</h1>
+                <h1>Shop</h1>
                 <nav>
                     <a href="index.php">Home</a>
                     <a href="index.php?page=products">Products</a> 
